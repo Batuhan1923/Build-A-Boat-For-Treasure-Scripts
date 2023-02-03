@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Batuhan1923/Batuhan1923-Build-a-boat-for-treasure/main/Batuhan1923's%20Gui", true))()
